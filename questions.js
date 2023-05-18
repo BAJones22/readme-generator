@@ -31,7 +31,7 @@ const questions = [
     name: "projectTests",
   },
   {
-    type: "checkbox",
+    type: "list",
     message: "Please select the type of license your project will contain:",
     choices: ['MIT', 'Apache 2.0', 'BSD 3', 'None'],
     name: "projectLicense",
@@ -39,7 +39,7 @@ const questions = [
   {
     type: "input",
     message: "Please provide your GitHub user name:",
-    name: "userGithHub",
+    name: "userGitHub",
   },
   {
     type: "input",
