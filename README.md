@@ -23,7 +23,6 @@ N/A
 
 The generator can be used by opening the terminal in VS Code and calling node index.js
 
-<src="dist/README.md">
      
 ## Contributing
 
